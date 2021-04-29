@@ -18,7 +18,7 @@ div li {
   align-items: center;
 }
 
-div li + li {
+div li+li {
   margin-top: 15px;
 }
 
